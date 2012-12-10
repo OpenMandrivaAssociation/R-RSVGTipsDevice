@@ -42,3 +42,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
 %{rlibdir}/%{packname}/serverconfig
+
+
+%changelog
+* Mon Feb 20 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0_4-1
++ Revision: 777719
+- Import R-RSVGTipsDevice
+- Import R-RSVGTipsDevice
+
