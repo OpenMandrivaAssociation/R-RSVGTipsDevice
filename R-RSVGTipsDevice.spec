@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0_4
-Release:          1
+Release:          2
 Summary:          An R SVG graphics device with dynamic tips and hyperlinks
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
